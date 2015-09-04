@@ -1,10 +1,9 @@
-#个人信息
----
 #兰登科
 + 男/1992  
 + 琼州学院/软件工程
 + 电话：13208919469
-+ 邮箱：443503691@qq.com
++ 邮箱：haixunmeng@live.com
++ QQ：443503691
 
 #技能
 + 熟悉springMVC和myBatis，了解Hibernate
